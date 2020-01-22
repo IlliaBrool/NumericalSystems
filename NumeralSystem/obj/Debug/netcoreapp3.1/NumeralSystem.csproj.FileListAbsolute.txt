@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\bin\Debug\netcoreapp3.1\NumeralSystem.exe
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\bin\Debug\netcoreapp3.1\NumeralSystem.deps.json
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\bin\Debug\netcoreapp3.1\NumeralSystem.runtimeconfig.json
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\bin\Debug\netcoreapp3.1\NumeralSystem.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\bin\Debug\netcoreapp3.1\NumeralSystem.dll
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\bin\Debug\netcoreapp3.1\NumeralSystem.pdb
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\obj\Debug\netcoreapp3.1\NumeralSystem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\obj\Debug\netcoreapp3.1\NumeralSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\obj\Debug\netcoreapp3.1\NumeralSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\obj\Debug\netcoreapp3.1\NumeralSystem.dll
+C:\Users\User\source\repos\NumeralSystem\NumeralSystem\obj\Debug\netcoreapp3.1\NumeralSystem.pdb
